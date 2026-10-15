@@ -1,0 +1,8 @@
+feature_group,n_features,era_test_acc
+ALL,186,0.988
+pitch,64,0.976
+melodic intervals,35,0.963
+rhythm,34,0.927
+dynamics,8,0.878
+vertical intervals,19,0.866
+texture,26,0.732
